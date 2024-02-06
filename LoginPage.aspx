@@ -26,6 +26,6 @@
                 
             </div>
         </form>
-        <div> This is Devi </div>
+        <div> This is Devi. </div>
     </body>
     </html>
