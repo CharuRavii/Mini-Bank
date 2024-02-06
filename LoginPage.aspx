@@ -23,6 +23,7 @@
                 <input  id="SubmitButton" type="submit" runat="server" onclick="return validpage()"
                     onserverclick="Submit_Click">
                 <input  id="ResetButton" type="reset" runat="server">
+                <div> This is Devi </div>
             </div>
         </form>
     </body>
