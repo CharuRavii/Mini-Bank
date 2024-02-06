@@ -23,11 +23,14 @@
                 <input  id="SubmitButton" type="submit" runat="server" onclick="return validpage()"
                     onserverclick="Submit_Click">
                 <input  id="ResetButton" type="reset" runat="server">
-                <div> This is Devi </div>
+                
             </div>
         </form>
         <div>
-            This tag is opened by Charu
+            This tag is opened by Charu.
         </div>
+        <div> This is Devi</div>
+        
+
     </body>
     </html>
