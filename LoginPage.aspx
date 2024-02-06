@@ -26,7 +26,7 @@
                 
             </div>
         </form>
-        <div> This is Devi. </div>
+
         <div>
             This tag is opened by Charu.
         </div>
